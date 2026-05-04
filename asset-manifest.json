@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nakladkovy-simulator/static/css/main.e6c13ad2.css",
+    "main.js": "/nakladkovy-simulator/static/js/main.c5a11cba.js",
+    "static/js/453.17a1da6a.chunk.js": "/nakladkovy-simulator/static/js/453.17a1da6a.chunk.js",
+    "index.html": "/nakladkovy-simulator/index.html",
+    "main.e6c13ad2.css.map": "/nakladkovy-simulator/static/css/main.e6c13ad2.css.map",
+    "main.c5a11cba.js.map": "/nakladkovy-simulator/static/js/main.c5a11cba.js.map",
+    "453.17a1da6a.chunk.js.map": "/nakladkovy-simulator/static/js/453.17a1da6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c5a11cba.js"
+  ]
+}
